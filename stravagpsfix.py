@@ -61,6 +61,7 @@ def fix_gpx_file(fname=''):
     # now check points:
     print 'Number of points: ',len(points)
     print 'Check First Point: ',len(points[0])
+    print points[0]
     
     # first point:
 
