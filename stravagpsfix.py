@@ -1,6 +1,4 @@
-#
-#
-#
+# Website: https://github.com/myallh/stravagpsfix
 
 def get_decimal_time(tin):
     a = tin.strip().strip('<time/>Z').split('T')
