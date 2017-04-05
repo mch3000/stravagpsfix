@@ -15,6 +15,7 @@ After exporting the file (to a .gpx on the sd card), transferring it to my compu
 1) some data points had incorrectly formatted times, eg:
 
 (WRONG) <time>2013-01-15T08:015:52.822Z</time>  instead of:
+
 (RIGHT) <time>2013-01-15T08:15:52.822Z</time>  (the extra character causes the time to be invalid)
 
 2) the time itself would occasionally jump forward or backwards by anywhere from 30 seconds to 2 hours, which causes problems.
